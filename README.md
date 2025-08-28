@@ -14,6 +14,8 @@ I suggest you to access [this material](https://aline-antunes.gitbook.io/boas-pr
 
 ![naming example of good and bad pratice](images/naming-example-of-good-and-bad-pratice.png)
 
+Some concepts that the teacher Aline explained in the classes, like that we must use plural names of resources and without an HTTP verb in the name ("getUsers", with "get" in the name of the route, is wrong as example).
+
 
 # 7 Boas Práticas Para APIs RESTful Profissionais article
 
