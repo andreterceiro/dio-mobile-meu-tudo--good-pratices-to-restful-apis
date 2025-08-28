@@ -10,6 +10,6 @@ To be stateless is a characteristics of a REST API.
 
 # Extra material
 
-I ssuggest you to access [this material]() if the teacher that explains some concepts related to REST APIs, link good and bad pratices as the following image
+I suggest you to access [this material](https://aline-antunes.gitbook.io/boas-praticas-para-apis-restful) if the teacher that explains some concepts related to REST APIs, link good and bad pratices as the following image.
 
 ![naming example of good and bad pratice](images/naming-example-of-good-and-bad-pratice.png)
