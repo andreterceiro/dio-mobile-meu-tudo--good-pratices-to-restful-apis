@@ -21,6 +21,8 @@ Some concepts that the teacher Aline explained in the classes, like that we must
 
 With a random example teacher enforced the necessity of the use of noons (and not verbs, as example), to represent resources.
 
+![example of the use of noons](images/use-of-noons.png)
+
 
 # 7 Boas Práticas Para APIs RESTful Profissionais article
 
