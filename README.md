@@ -54,6 +54,11 @@ http://10.0.0.1/users/1/edit
 ![groups of HTTP status codes](images/groups-of-http-status-codes.png)
 
 
+# Example of sending an HTTP status code with Express (Node.JS)
+
+![HTTP sttaus code in Express](images/express-http-status-code.png)
+
+
 # REST APIs returning HTML
 
 A conversation with Chat GPT about this question: [link](https://chatgpt.com/share/68b19ce5-4444-8007-985e-faecd492c154).
