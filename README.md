@@ -25,6 +25,8 @@ With a random example teacher enforced the necessity of the use of noons (and no
 
 To be more clear, teacher refered to use of the word "details" in the image of the URL of the previous image.
 
+Teacher said that in case of the use of a verb in a URL we must use a correct verb with the route, as example the verb GET with the route "/users" instead ot the 
+route "/getUsers".
 
 # 7 Boas Práticas Para APIs RESTful Profissionais article
 
