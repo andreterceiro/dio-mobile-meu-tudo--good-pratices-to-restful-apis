@@ -23,6 +23,8 @@ With a random example teacher enforced the necessity of the use of noons (and no
 
 ![example of the use of noons](images/use-of-noons.png)
 
+To be more clear, teacher refered to use of the word "details" in the image of the URL of the previous image.
+
 
 # 7 Boas Práticas Para APIs RESTful Profissionais article
 
