@@ -31,7 +31,9 @@ route "/getUsers".
 
 # Route versioning
 
-Teacher showed an example o route versioning, the part "v1", "v2" etc in the URL.
+Teacher showed an example o route versioning, the part "v1", "v2" etc in the URL. Example:
+
+![route versioning - example](images/route-versioning-example.png)
 
 
 # 7 Boas Práticas Para APIs RESTful Profissionais article
