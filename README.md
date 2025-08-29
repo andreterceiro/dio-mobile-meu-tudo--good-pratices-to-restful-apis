@@ -42,6 +42,12 @@ Teacher said about the use of query parameters using the characters "?" and "&" 
 
 ![query parameters](images/query-parameters.png)
 
+But teacher said about things that do not are very common, like in the next URL where we receive a form to change an user. I am talking about the id 1 in the URL:
+
+```
+http://10.0.0.1/users/1/edit
+```
+
 
 # REST APIs returning HTML
 
