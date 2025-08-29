@@ -28,6 +28,12 @@ To be more clear, teacher refered to use of the word "details" in the image of t
 Teacher said that in case of the use of a verb in a URL we must use a correct verb with the route, as example the verb GET with the route "/users" instead ot the 
 route "/getUsers".
 
+
+# Route versioning
+
+Teacher showed an example o route versioning, the part "v1", "v2" etc in the URL.
+
+
 # 7 Boas Práticas Para APIs RESTful Profissionais article
 
 [link](https://www.dio.me/articles/7-boas-praticas-para-apis-restful-profissionais)
