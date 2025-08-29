@@ -36,9 +36,15 @@ Teacher showed an example o route versioning, the part "v1", "v2" etc in the URL
 ![route versioning - example](images/route-versioning-example.png)
 
 
+# Query parameters
+
+Teacher said about the use of query parameters using the characters "?" and "&" in the URL.
+
+
 # REST APIs returning HTML
 
 A conversation with Chat GPT about this question: [link](https://chatgpt.com/share/68b19ce5-4444-8007-985e-faecd492c154).
+
 
 # 7 Boas Práticas Para APIs RESTful Profissionais article
 
