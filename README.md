@@ -38,7 +38,9 @@ Teacher showed an example o route versioning, the part "v1", "v2" etc in the URL
 
 # Query parameters
 
-Teacher said about the use of query parameters using the characters "?" and "&" in the URL.
+Teacher said about the use of query parameters using the characters "?" and "&" in the URL:
+
+![query parameters](images/query-parameters.png)
 
 
 # REST APIs returning HTML
