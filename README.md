@@ -49,6 +49,11 @@ http://10.0.0.1/users/1/edit
 ```
 
 
+# Groups of HTTP status codes
+
+![groups of HTTP status codes](images/groups-of-http-status-codes.png)
+
+
 # REST APIs returning HTML
 
 A conversation with Chat GPT about this question: [link](https://chatgpt.com/share/68b19ce5-4444-8007-985e-faecd492c154).
